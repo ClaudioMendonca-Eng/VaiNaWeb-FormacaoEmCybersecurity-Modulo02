@@ -1,0 +1,5 @@
+2025-09-19T21:42:41.191698741Z {"level":"warn","env":"DOZZLE_PASSWORD","time":"2025-09-19T21:42:41Z","message":"Unexpected environment variable"}
+2025-09-19T21:42:41.191737620Z {"level":"warn","env":"DOZZLE_USERNAME","time":"2025-09-19T21:42:41Z","message":"Unexpected environment variable"}
+2025-09-19T21:42:41.191742134Z {"level":"info","version":"v8.13.14","time":"2025-09-19T21:42:41Z","message":"Dozzle version v8.13.14"}
+2025-09-19T21:42:41.222056467Z {"level":"info","version":"v8.13.14","clients":1,"time":"2025-09-19T21:42:41Z","message":"Connected to Docker"}
+2025-09-19T21:42:41.222144809Z {"level":"info","version":"v8.13.14","time":"2025-09-19T21:42:41Z","message":"Accepting connections on :8080"}
