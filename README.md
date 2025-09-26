@@ -738,3 +738,8 @@ Com base no projeto de WAF ModSecurity apresentado, aqui estão as **Referência
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
+
+---
+
+
+Copyright © 2025 <a href="https://www.claudiomendonca.eng.br" target="_blank">ClaudioMendonca.eng.br</a>. 
