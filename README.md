@@ -517,6 +517,7 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Ação:** Configurar alertas quando score de anomalia > 15
 - **Ferramenta:** Integração Dozzle + webhook/email
 - **Prazo:** 1 semana
+- **Detalhes:** A configuração de alertas automatizados permitirá uma resposta mais ágil a potenciais incidentes de segurança, garantindo que a equipe de segurança seja notificada imediatamente quando um ataque for detectado. Isso não apenas melhora a postura de segurança, mas também minimiza o tempo de resposta a incidentes.
 
 #### 🔥 **2. Tuning de Regras Baseado em Falsos Positivos**
 - **Impacto:** ⭐⭐⭐⭐ (Alto)  
@@ -524,6 +525,7 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Ação:** Análise de 30 dias em DetectionOnly antes de ativar blocking
 - **Método:** Whitelist de aplicações legítimas
 - **Prazo:** 2 semanas
+- **Detalhes:** Realizar um tuning cuidadoso das regras do WAF com base em dados reais de tráfego ajudará a reduzir falsos positivos, garantindo que o sistema bloqueie apenas tráfego malicioso. Isso é crucial para manter a confiança dos usuários legítimos e evitar interrupções desnecessárias nos serviços.
 
 #### 🔥 **3. Implementação de Rate Limiting**
 - **Impacto:** ⭐⭐⭐⭐ (Alto)
@@ -531,6 +533,7 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Ação:** Limitar requisições por IP (ex: 100/min)
 - **Configuração:** nginx limit_req_zone
 - **Prazo:** 3 dias
+- **Detalhes:** A implementação de rate limiting ajudará a mitigar ataques de força bruta e negação de serviço (DoS), controlando o número de requisições que um único IP pode fazer em um determinado período. Isso é uma medida eficaz para proteger a aplicação contra abusos e garantir a disponibilidade do serviço.
 
 #### 🔥 **4. Backup e Versionamento de Configurações**
 - **Impacto:** ⭐⭐⭐ (Médio)
@@ -538,6 +541,7 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Ação:** Git para docker-compose.yml e configs customizadas
 - **Benefício:** Rollback rápido em caso de problemas
 - **Prazo:** 1 dia
+- **Detalhes:** Manter um sistema de versionamento para as configurações do WAF e do ambiente Docker permitirá uma recuperação rápida em caso de falhas ou erros de configuração. Isso é essencial para garantir a continuidade dos negócios e minimizar o tempo de inatividade.
 
 #### 🔥 **5. Dashboard de Métricas de Segurança**
 - **Impacto:** ⭐⭐⭐⭐ (Alto)
@@ -545,6 +549,7 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Ação:** Grafana + Prometheus para visualização de ataques
 - **Métricas:** Ataques/hora, top IPs maliciosos, regras mais disparadas
 - **Prazo:** 1 mês
+- **Detalhes:** A criação de um dashboard de métricas de segurança permitirá uma visualização clara e em tempo real do estado da segurança da aplicação. Isso facilitará a identificação de tendências, padrões de ataque e áreas que necessitam de atenção, melhorando a capacidade de resposta da equipe de segurança.
 
 ### 7.2 Implementações Futuras (Médio/Longo Prazo)
 
@@ -552,11 +557,13 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Impacto:** ⭐⭐⭐ (Médio)
 - **Esforço:** ⭐⭐⭐⭐ (Alto)
 - **Justificativa:** Bloquear países com histórico de ataques
+- **Detalhes:** A implementação de geo-blocking permitirá restringir o acesso à aplicação a partir de países que não são relevantes para o negócio ou que possuem um histórico conhecido de atividades maliciosas. Isso pode reduzir significativamente a superfície de ataque e melhorar a segurança geral da aplicação.
 
 #### 📋 **7. Integração com Threat Intelligence**
 - **Impacto:** ⭐⭐⭐⭐⭐ (Crítico)
 - **Esforço:** ⭐⭐⭐⭐⭐ (Muito Alto)
 - **Justificativa:** IPs/domínios maliciosos conhecidos
+- **Detalhes:** Integrar o WAF com feeds de threat intelligence permitirá a atualização automática de listas de bloqueio com base em informações atualizadas sobre ameaças emergentes. Isso aumentará a capacidade do WAF de detectar e bloquear ataques sofisticados que utilizam IPs ou domínios conhecidos por atividades maliciosas.
 
 ### 7.3 Métricas de Sucesso
 
@@ -565,6 +572,8 @@ A análise 80/20, também conhecida como Princípio de Pareto, representa uma me
 - **Tempo de Detecção:** < 100ms
 - **Tempo de Bloqueio:** < 50ms
 - **Cobertura OWASP Top 10:** 100%
+- **Detalhes:** Monitoramento contínuo via Dozzle e dashboards
+- **ROI Estimado:** Prevenção de 95% dos ataques testados
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
