@@ -732,7 +732,8 @@ Com base no projeto de WAF ModSecurity apresentado, aqui estão as **Referência
 - [Figura 7 - Dozzle Para A Tentativa De Ataque Xss](/doc/print/06.png)
 - [Figura 8 - Detalhes aba - Dozzle Para A Tentativa De Ataque Xss](/doc/print/07.png)
 - [Figura 9 - Gerando Relatório](/doc/print/08.png)
-- [Arquivo - logs_waf_evidencias.txt](/doc/print/logs_waf_evidencias.txt)
+- [Arquivo - logs_waf_evidencias.txt](/doc/logs_waf_evidencias.txt)
+- [LOGs ModSecurity ](/doc/all-container-logs-2025-09-19T23-16-29/)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
