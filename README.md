@@ -725,13 +725,14 @@ Com base no projeto de WAF ModSecurity apresentado, aqui estão as **Referência
 
 - [Figura 1 - Detalhar o comando e o resultado do seu scan Nmap](/doc/print/01.png)
 - [Figura 2 - Ataque de SQL Injection e XSS](/doc/print/02.png)
-- [Figura 3 - Ataque de SQL Injection](/doc/print/03.png)
-- [Figura 4 - Ataque de XSS refletido em uma aplicação](/doc/print/04.png)
-- [Figura 5 - Dozzle Para A Tentativa De Sql Injection](/doc/print/05.png)
-- [Figura 6 - Detalhes aba - Dozzle Para A Tentativa De Sql Injection](/doc/print/06.png)
-- [Figura 7 - Dozzle Para A Tentativa De Ataque Xss]
-- [Figura 8 - Detalhes aba - Dozzle Para A Tentativa De Ataque Xss]
-- [Figura 9 - Gerando Relatório]
+- [Figura 3 - Ataque de SQL Injection](/doc/print/02.png)
+- [Figura 4 - Ataque de XSS refletido em uma aplicação](/doc/print/03.png)
+- [Figura 5 - Dozzle Para A Tentativa De Sql Injection](/doc/print/04.png)
+- [Figura 6 - Detalhes aba - Dozzle Para A Tentativa De Sql Injection](/doc/print/05.png)
+- [Figura 7 - Dozzle Para A Tentativa De Ataque Xss](/doc/print/06.png)
+- [Figura 8 - Detalhes aba - Dozzle Para A Tentativa De Ataque Xss](/doc/print/07.png)
+- [Figura 9 - Gerando Relatório](/doc/print/08.png)
+- [Arquivo - logs_waf_evidencias.txt](/doc/print/logs_waf_evidencias.txt)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
