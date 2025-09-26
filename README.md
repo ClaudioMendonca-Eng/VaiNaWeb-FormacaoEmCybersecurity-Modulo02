@@ -1,7 +1,7 @@
 # Formação em Cybersecurity - Módulo 2 🚀
 
 ## 🛠️ Descrição do Projeto
-| Este projeto foi desenvolvido como parte do **[Módulo 2 da Trilha de Formação em Cybersecurity](https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo2-defesa-monitoramento/projeto-final)**.  |
+| Este projeto foi desenvolvido como parte do **[Módulo 2 da Trilha de Formação em Cybersecurity](https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo2-defesa-monitoramento/projeto-final)**. Laboratório prático de implementação de Web Application Firewall (WAF) ModSecurity em ambiente containerizado Docker, demonstrando proteção contra ataques SQL Injection e XSS em aplicação DVWA. O projeto simula um cenário real de SOC com testes em modo detecção e bloqueio ativo, utilizando OWASP Core Rule Set v4.17.1 com 836 regras ativas, metodologia NIST para resposta a incidentes, e monitoramento em tempo real via Dozzle. A arquitetura inclui ferramentas como nmap para reconhecimento, análise forense de logs JSON estruturados, e documentação completa seguindo padrões enterprise de segurança defensiva, alcançando 100% de detecção nos ataques testados com latência inferior a 10ms.  |
 |:---:|
 | |
 | **<a href="/doc/Desafio_Modulo_02-Projeto_01-v.1.0.pdf" target="_blank"><span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
