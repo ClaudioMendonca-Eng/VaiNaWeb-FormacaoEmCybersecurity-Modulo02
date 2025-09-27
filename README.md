@@ -16,13 +16,6 @@
 > **Mestre:** [Jose Menezes](https://github.com/jcarlos78) - **Instrutores:** [Gilson Andrade](https://github.com/GilsonJunio) / [João Pedro Belo](https://github.com/silvajpedro)
 
 ---
----
-🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
-
-https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
-
----
----
  
 # Formação em Cybersecurity - Módulo 2 🚀
 
@@ -36,6 +29,10 @@ https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
+🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
+
+https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
+
 ---
 
 ## 📖 Sumário
