@@ -14,6 +14,11 @@
 
 [WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3](https://github.com/user-attachments/files/22569674/WAF_na_Pratica__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)
 
+
+
+https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
+
+
 > [!NOTE]
 > **CURSO FORMAÇÃO CIBERSEC**
 > 
