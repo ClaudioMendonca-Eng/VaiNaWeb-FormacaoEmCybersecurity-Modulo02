@@ -708,10 +708,11 @@ Com base no projeto de WAF ModSecurity apresentado, aqui estão as **Referência
 22. **OpenAI ChatGPT**. *Large Language Model para consultas técnicas e esclarecimento de conceitos em cybersecurity*. Desenvolvido pela OpenAI. Disponível em: https://openai.com/chatgpt. Acesso em: 19 set. 2025.
 23. **Google Gemini AI**. *Advanced AI Assistant para análises complexas e suporte em decisões técnicas*. Desenvolvido pelo Google DeepMind. Disponível em: https://gemini.google.com/. Acesso em: 19 set. 2025.
 24. **GitHub Copilot**. *AI-powered code completion e sugestões de soluções práticas*. Desenvolvido pela GitHub em parceria com OpenAI. Disponível em: https://github.com/features/copilot. Acesso em: 19 set. 2025.
+25. **NotebookLM**. *AI-powered notebook para consultas e análises em tempo real, onde foi feito o áudio desse repositório*. Desenvolvido pelo Google. Disponível em: https://notebooklm.google.com/. Acesso em: 19 set. 2025.
 
 ### **Materiais Educacionais do Curso:**
-25. **Escola Vai na Web**. *Formação em Cybersecurity - Módulo 2: Defesa e Monitoramento*. Material do curso Formação Cibersec. Disponível em: https://escolavainaweb-com.gitbook.io/formacao-cibersec. Acesso em: 19 set. 2025.
-26. **KENSEI CyberSec Lab**. *Projeto Final Módulo 2 - Implementação de WAF ModSecurity*. Repositório GitHub. Disponível em: https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo2-defesa-monitoramento/projeto-final. Acesso em: 19 set. 2025.
+26. **Escola Vai na Web**. *Formação em Cybersecurity - Módulo 2: Defesa e Monitoramento*. Material do curso Formação Cibersec. Disponível em: https://escolavainaweb-com.gitbook.io/formacao-cibersec. Acesso em: 19 set. 2025.
+27. **KENSEI CyberSec Lab**. *Projeto Final Módulo 2 - Implementação de WAF ModSecurity*. Repositório GitHub. Disponível em: https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo2-defesa-monitoramento/projeto-final. Acesso em: 19 set. 2025.
 
 ### **Documentação Oficial:**
 - **ModSecurity:** https://modsecurity.org/
