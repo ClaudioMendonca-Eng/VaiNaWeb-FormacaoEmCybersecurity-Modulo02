@@ -8,19 +8,21 @@
 | <a href="/doc/Desafio_Modulo_02-Projeto_01-v.1.0.pdf" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 |  <a href="https://kensei.seg.br/lab" target="_blank"><img style="margin: 10px" height="100" width="500" src="/doc/img/logos.png" alt="Logos Kensei e Vai na Web"/></a> |
 
-🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
-
-https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
-
-[Download do áudio](https://github.com/user-attachments/files/22569674/WAF_na_Pratica__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)
-
-
 > [!NOTE]
 > **CURSO FORMAÇÃO CIBERSEC**
 > 
 > ***Autor:*** Claudio Mendonça - ***Data:*** 15/09/2025 - ***Versão:*** 1.0
 >
 > **Mestre:** [Jose Menezes](https://github.com/jcarlos78) - **Instrutores:** [Gilson Andrade](https://github.com/GilsonJunio) / [João Pedro Belo](https://github.com/silvajpedro)
+
+---
+---
+🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
+
+https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
+
+---
+---
  
 # Formação em Cybersecurity - Módulo 2 🚀
 
