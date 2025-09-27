@@ -8,6 +8,15 @@
 | <a href="/doc/Desafio_Modulo_02-Projeto_01-v.1.0.pdf" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 |  <a href="https://kensei.seg.br/lab" target="_blank"><img style="margin: 10px" height="100" width="500" src="/doc/img/logos.png" alt="Logos Kensei e Vai na Web"/></a> |
 
+<p align="center">
+  🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
+  <br><br>
+  <audio controls style="width: 100%; max-width: 500px;">
+    <source src="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3" type="audio/mpeg">
+    <source src="./doc/audio/waf-lab-presentation.wav" type="audio/wav">
+    <a href="./doc/audio/waf-lab-presentation.mp3">Download do áudio</a>
+  </audio>
+</p>
 
 > [!NOTE]
 > **CURSO FORMAÇÃO CIBERSEC**
@@ -234,6 +243,8 @@ A fase de análise e resposta implementa uma abordagem sistemática baseada no f
 </p>
 
 ## 📋 <a name="execucao-e-evidencias"></a> 5. Execução e Evidências
+
+Nesta seção, detalharemos a execução dos testes de segurança realizados, bem como as evidências coletadas durante o processo. A documentação meticulosa das etapas executadas e dos resultados obtidos é crucial para a análise posterior e para a melhoria contínua das práticas de segurança.
 
 ### 5.1 Reconhecimento - Descoberta de Serviços
 
