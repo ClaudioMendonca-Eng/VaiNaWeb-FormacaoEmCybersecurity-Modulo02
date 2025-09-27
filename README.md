@@ -13,8 +13,7 @@
   <br><br>
   <audio controls style="width: 100%; max-width: 500px;">
     <source src="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3" type="audio/mpeg">
-    <source src="./doc/audio/waf-lab-presentation.wav" type="audio/wav">
-    <a href="./doc/audio/waf-lab-presentation.mp3">Download do áudio</a>
+    <a href="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3">Download do áudio</a>
   </audio>
 </p>
 
