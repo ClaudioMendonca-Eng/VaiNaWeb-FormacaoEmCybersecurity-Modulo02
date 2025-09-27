@@ -9,12 +9,9 @@
 |  <a href="https://kensei.seg.br/lab" target="_blank"><img style="margin: 10px" height="100" width="500" src="/doc/img/logos.png" alt="Logos Kensei e Vai na Web"/></a> |
 
 <p align="center">
-  🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
-  <br><br>
-  <audio controls style="width: 100%; max-width: 500px;">
-    <source src="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3" type="audio/mpeg">
-    <a href="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3">Download do áudio</a>
-  </audio>
+  🎧 **[Clique aqui para ouvir a apresentação do projeto](./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)**
+
+[![Audio](https://img.shields.io/badge/🎵-Áudio_Disponível-blue)](./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)
 </p>
 
 > [!NOTE]
