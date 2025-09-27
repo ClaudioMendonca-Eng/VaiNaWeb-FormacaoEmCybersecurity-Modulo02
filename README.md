@@ -9,15 +9,10 @@
 |  <a href="https://kensei.seg.br/lab" target="_blank"><img style="margin: 10px" height="100" width="500" src="/doc/img/logos.png" alt="Logos Kensei e Vai na Web"/></a> |
 
 <p align="center">
-<audio controls style="width: 100%;"><source src="./doc/WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3" type="audio/mpeg">Seu navegador não suporta áudio.</audio> |
-</p>
-
-[WAF_na_Prática__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3](https://github.com/user-attachments/files/22569674/WAF_na_Pratica__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)
-
-
-
+🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
 https://github.com/user-attachments/assets/1efdbee2-06a9-413d-99fe-3dada124b738
-
+[Download do áudio](https://github.com/user-attachments/files/22569674/WAF_na_Pratica__Como_ModSecurity_e_OWASP_CRS_Bloqueiam_SQL_Inje.mp3)
+</p>
 
 > [!NOTE]
 > **CURSO FORMAÇÃO CIBERSEC**
